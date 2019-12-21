@@ -1,11 +1,15 @@
 # hello-koa2
 
+## Project init
+```
+npm install
+```
 ## SQL init
 ```
 node init-db
 ```
 
-### run Project
+### Run project
 ```
 node app
 ```
